@@ -1,6 +1,4 @@
-  
-Hello.
-I created an ssh key on powershells to hen make the key functions on git.
+ Hello.
 
-
-
+l created an ssh key 
+on powershell to then function the key on git.
